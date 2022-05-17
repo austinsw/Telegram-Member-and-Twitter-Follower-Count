@@ -1,6 +1,8 @@
 # Telegram-Member-and-Twitter-Follower-Count
 Using Telegram API and Twitter API to scrape the number of members and followers into excel, made in 2021
 
+The project was originally created to log the follower count and group no. count onto excel everyday. The information was then incorporated with free dashboard making website to create a dashboard for showing the statistics that updated everyday.
+
 ## Run
 The code is run on Python 3. If Python 3 is not your default interpreter (say Python 2.7), you will probably need `pip3 install`, and `python3` command to install the packages and run the .py file.
 
